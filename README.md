@@ -1,6 +1,6 @@
 # DisplayCluster State Migration Utility
 
-![State Migration](https://dl.dropboxusercontent.com/u/25652072/DC_State_Migration_GUI.png)
+![State Migration](http://imgur.com/UtmqfUJ.png)
 
 
 ## Program Description
